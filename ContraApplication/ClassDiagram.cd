@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ContraControllers.ControllerCollector" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="0.5" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ContraControllers.GameControllers.GameController">
+    <Position X="8.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ContraControllers.GameControllers.WindowsFormsGameController">
+    <Position X="8.25" Y="3" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ContraViewers.BufferedGraphicsRenderer">
+    <Position X="4.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ContraViewers.StageRender.StageGraphicsRender">
+    <Position X="4.25" Y="3.5" Width="2.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ContraControllers.IController">
+    <Position X="11.5" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="ContraViewers.StageRender.IStageReder">
+    <Position X="13.5" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
